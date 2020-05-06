@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skipped="0" tests="6" time="39.883"><testcase classname="test_TravelSite.TestHotelScenarios" file="test_TravelSite.py" line="16" name="test_HotelSearch[getTestData0]" time="12.355"><system-out>2020-04-21 14:23:30,943 :INFO :setupWebDriver :------------------------------------------home page opened------------------------------------------
+2020-04-21 14:23:34,819 :INFO :setupWebDriver :-----------------------------------User completed Search Criteria-----------------------------------
+2020-04-21 14:23:34,893 :INFO :setupWebDriver :---------------------------Hyatt Regency Chicago is available at Chicago----------------------------
+2020-04-21 14:23:34,912 :INFO :setupWebDriver :----------------------------Congress Plaza Hotel is available at Chicago----------------------------
+2020-04-21 14:23:34,926 :INFO :setupWebDriver :------------------------Palmer House a Hilton Hotel is available at Chicago-------------------------
+2020-04-21 14:23:34,941 :INFO :setupWebDriver :----------------------------Swissotel - Chicago is available at Chicago-----------------------------
+2020-04-21 14:23:34,953 :INFO :setupWebDriver :-----------------InterContinental Chicago Magnificent Mile is available at Chicago------------------
+2020-04-21 14:23:34,967 :INFO :setupWebDriver :-----------------Trump International Hotel &amp; Tower Chicago is available at Chicago------------------
+2020-04-21 14:23:34,983 :INFO :setupWebDriver :--------------------Fairmont Chicago at Millennium Park is available at Chicago---------------------
+2020-04-21 14:23:34,996 :INFO :setupWebDriver :----------------------------Hotel Felix Chicago is available at Chicago-----------------------------
+2020-04-21 14:23:35,012 :INFO :setupWebDriver :--------------------------------Kinzie Hotel is available at Chicago--------------------------------
+2020-04-21 14:23:35,029 :INFO :setupWebDriver :---------------------------W Chicago - Lakeshore is available at Chicago----------------------------
+</system-out></testcase><testcase classname="test_TravelSite.TestHotelScenarios" file="test_TravelSite.py" line="16" name="test_HotelSearch[getTestData1]" time="4.277"><system-out>2020-04-21 14:23:36,062 :INFO :setupWebDriver :------------------------------------------home page opened------------------------------------------
+2020-04-21 14:23:39,131 :INFO :setupWebDriver :-----------------------------------User completed Search Criteria-----------------------------------
+2020-04-21 14:23:39,198 :INFO :setupWebDriver :--------------------San Francisco Marriott Marquis is available at San Francisco--------------------
+2020-04-21 14:23:39,209 :INFO :setupWebDriver :----------------------Hotel Nikko San Francisco is available at San Francisco-----------------------
+2020-04-21 14:23:39,222 :INFO :setupWebDriver :--------------------The Park Central San Francisco is available at San Francisco--------------------
+2020-04-21 14:23:39,232 :INFO :setupWebDriver :---------------Hilton San Francisco Financial District is available at San Francisco----------------
+2020-04-21 14:23:39,244 :INFO :setupWebDriver :---------The Westin St. Francis San Francisco on Union Square is available at San Francisco---------
+2020-04-21 14:23:39,258 :INFO :setupWebDriver :-------------------Chancellor Hotel on Union Square is available at San Francisco-------------------
+2020-04-21 14:23:39,272 :INFO :setupWebDriver :-----------------------------Hotel Spero is available at San Francisco------------------------------
+2020-04-21 14:23:39,287 :INFO :setupWebDriver :----------------------Holiday Inn Golden Gateway is available at San Francisco----------------------
+2020-04-21 14:23:39,299 :INFO :setupWebDriver :---------------------Hotel Fusion, a C-Two Hotel is available at San Francisco----------------------
+2020-04-21 14:23:39,311 :INFO :setupWebDriver :----------------King George Hotel - A Greystone Hotel is available at San Francisco-----------------
+</system-out></testcase><testcase classname="test_TravelSite.TestHotelScenarios" file="test_TravelSite.py" line="16" name="test_HotelSearch[getTestData2]" time="4.674"><system-out>2020-04-21 14:23:40,855 :INFO :setupWebDriver :------------------------------------------home page opened------------------------------------------
+2020-04-21 14:23:43,810 :INFO :setupWebDriver :-----------------------------------User completed Search Criteria-----------------------------------
+2020-04-21 14:23:43,872 :INFO :setupWebDriver :-------------------------------Hilton Atlanta is available at Atlanta-------------------------------
+2020-04-21 14:23:43,883 :INFO :setupWebDriver :--------------------------Atlanta Marriott Marquis is available at Atlanta--------------------------
+2020-04-21 14:23:43,899 :INFO :setupWebDriver :--------------------The Westin Peachtree Plaza, Atlanta is available at Atlanta---------------------
+2020-04-21 14:23:43,914 :INFO :setupWebDriver :-------------------------The Georgian Terrace Hotel is available at Atlanta-------------------------
+2020-04-21 14:23:43,927 :INFO :setupWebDriver :--------------Ellis Hotel, Atlanta, A Tribute Portfolio Hotel is available at Atlanta---------------
+2020-04-21 14:23:43,940 :INFO :setupWebDriver :---------------------InterContinental Buckhead Atlanta is available at Atlanta----------------------
+2020-04-21 14:23:43,952 :INFO :setupWebDriver :-----------------------------W Atlanta Buckhead is available at Atlanta-----------------------------
+2020-04-21 14:23:43,962 :INFO :setupWebDriver :--------------------------Wyndham Atlanta Galleria is available at Atlanta--------------------------
+2020-04-21 14:23:43,976 :INFO :setupWebDriver :---------------------------Hilton Atlanta Airport is available at Atlanta---------------------------
+2020-04-21 14:23:43,987 :INFO :setupWebDriver :-----------------Crowne Plaza Atlanta Perimeter at Ravinia is available at Atlanta------------------
+</system-out></testcase><testcase classname="test_TravelSite.TestHotelScenarios" file="test_TravelSite.py" line="50" name="test_UserRegistration[getTestData0]" time="5.622"><system-out>2020-04-21 14:23:45,447 :INFO :setupWebDriver :------------------------------------------home page opened------------------------------------------
+2020-04-21 14:23:47,452 :INFO :setupWebDriver :--------------------------------Sign Up Completed for Cynthia Palmer--------------------------------
+</system-out></testcase><testcase classname="test_TravelSite.TestHotelScenarios" file="test_TravelSite.py" line="50" name="test_UserRegistration[getTestData1]" time="5.551"><system-out>2020-04-21 14:23:50,675 :INFO :setupWebDriver :------------------------------------------home page opened------------------------------------------
+2020-04-21 14:23:52,645 :INFO :setupWebDriver :--------------------------------Sign Up Completed for Louise Marquez--------------------------------
+</system-out></testcase><testcase classname="test_TravelSite.TestHotelScenarios" file="test_TravelSite.py" line="50" name="test_UserRegistration[getTestData2]" time="6.872"><system-out>2020-04-21 14:23:56,213 :INFO :setupWebDriver :------------------------------------------home page opened------------------------------------------
+2020-04-21 14:23:58,017 :INFO :setupWebDriver :--------------------------------Sign Up Completed for Melissa Brund---------------------------------
+</system-out></testcase></testsuite>

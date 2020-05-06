@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skipped="0" tests="3" time="58.182"><testcase classname="test_Android.TestAndroid" file="test_Android.py" line="14" name="test_WifiSettings[getWifiData0]" time="36.374"><system-out>2020-04-21 14:27:08,161 :INFO :setupAndroidDriver :------------------------------------------home page opened------------------------------------------
+2020-04-21 14:27:18,420 :INFO :setupAndroidDriver :---------------------------------------wifi settings updated----------------------------------------
+2020-04-21 14:27:21,396 :INFO :setupAndroidDriver :--------------------------------------Landed back in HomePage---------------------------------------
+</system-out></testcase><testcase classname="test_Android.TestAndroid" file="test_Android.py" line="14" name="test_WifiSettings[getWifiData1]" time="10.669"><system-out>2020-04-21 14:27:21,404 :INFO :setupAndroidDriver :------------------------------------------home page opened------------------------------------------
+2020-04-21 14:27:29,004 :INFO :setupAndroidDriver :---------------------------------------wifi settings updated----------------------------------------
+2020-04-21 14:27:32,071 :INFO :setupAndroidDriver :--------------------------------------Landed back in HomePage---------------------------------------
+</system-out></testcase><testcase classname="test_Android.TestAndroid" file="test_Android.py" line="14" name="test_WifiSettings[getWifiData2]" time="10.884"><system-out>2020-04-21 14:27:32,076 :INFO :setupAndroidDriver :------------------------------------------home page opened------------------------------------------
+2020-04-21 14:27:39,691 :INFO :setupAndroidDriver :---------------------------------------wifi settings updated----------------------------------------
+2020-04-21 14:27:42,669 :INFO :setupAndroidDriver :--------------------------------------Landed back in HomePage---------------------------------------
+</system-out></testcase></testsuite>
